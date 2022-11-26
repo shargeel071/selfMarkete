@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "336392810558",
+    "project_id": "selfmarket-b465e",
+    "storage_bucket": "selfmarket-b465e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336392810558:android:d4ca5a29aeb75fb2a3216f",
+        "android_client_info": {
+          "package_name": "com.example.self_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336392810558-k90rktq6sckr04r4fcki1c8dokv9bn5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.self_market",
+            "certificate_hash": "cd27fc90795e7ba59b2874fd2aa852c409dc6ac3"
+          }
+        },
+        {
+          "client_id": "336392810558-2tiksui1vtg6b1u19eclut5a4f5r8le6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLYvEz_jIkVMk-71gK59nJ_aSD1YMzDok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336392810558-2tiksui1vtg6b1u19eclut5a4f5r8le6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
